@@ -77,7 +77,7 @@ const BusinessGuide1 = () => {
           name="keywords"
           content="힐스테이트 용인마크밸리"
         />
-        <link rel="canonical" href="https://www.cialisknfrx.com/BusinessGuide/intro" />
+        <link rel="canonical" href="https://www.blog-gratuit.com/BusinessGuide/intro" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta property="og:title" content="힐스테이트 용인마크밸리 - 사업안내" />
@@ -88,9 +88,9 @@ const BusinessGuide1 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.cialisknfrx.com/Main1.png"
+          content="https://www.blog-gratuit.com/Main1.png"
         />
-        <meta property="og:url" content="https://www.cialisknfrx.com/BusinessGuide/intro" />
+        <meta property="og:url" content="https://www.blog-gratuit.com/BusinessGuide/intro" />
         <meta property="og:site_name" content="힐스테이트 용인마크밸리" />
 
         {/* Twitter 카드 설정 */}
@@ -103,9 +103,9 @@ const BusinessGuide1 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.cialisknfrx.com/Main1.png"
+          content="https://www.blog-gratuit.com/Main1.png"
         />
-        <meta name="twitter:url" content="https://www.cialisknfrx.com/BusinessGuide/intro" />
+        <meta name="twitter:url" content="https://www.blog-gratuit.com/BusinessGuide/intro" />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
         <script type="application/ld+json">
@@ -117,7 +117,7 @@ const BusinessGuide1 = () => {
 				"description": "힐스테이트 용인마크밸리의 사업 개요 및 개발 계획을 확인하세요. 혁신적인 단지 설계, 편리한 인프라, 입주자 맞춤형 편의시설을 통해 최적의 주거 환경을 제공합니다.
 
 					",
-				"url": "https://www.cialisknfrx.com/BusinessGuide/intro"
+				"url": "https://www.blog-gratuit.com/BusinessGuide/intro"
 			}
 			`}
         </script>

@@ -68,7 +68,7 @@ const Brand1 = () => {
           name="keywords"
           content="힐스테이트용인마크밸리"
         />
-        <link rel="canonical" href="https://www.cialisknfrx.com/Brand/intro" />
+        <link rel="canonical" href="https://www.blog-gratuit.com/Brand/intro" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
@@ -81,11 +81,11 @@ const Brand1 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.cialisknfrx.com/Main1.png"
+          content="https://www.blog-gratuit.com/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.cialisknfrx.com/Brand/intro"
+          content="https://www.blog-gratuit.com/Brand/intro"
         />
         <meta property="og:site_name" content="힐스테이트용인마크밸리" />
 
@@ -101,11 +101,11 @@ const Brand1 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.cialisknfrx.com/Main1.png"
+          content="https://www.blog-gratuit.com/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.cialisknfrx.com/Brand/intro"
+          content="https://www.blog-gratuit.com/Brand/intro"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
@@ -117,7 +117,7 @@ const Brand1 = () => {
                 "name": "힐스테이트용인마크밸리 - 브랜드소개",
                 "description": "푸르지오는 미래지향적인 주거 문화를 선도하며, 힐스테이트용인마크밸리에서 혁신적인 설계와 지속 가능한 개발 철학을 바탕으로 한 브랜드 가치를 경험해보세요. 고객 중심의 차별화된 주거 공간을 제공합니다.
                     ",
-                "url": "https://www.cialisknfrx.com/Brand/intro"
+                "url": "https://www.blog-gratuit.com/Brand/intro"
             }
             `}
         </script>

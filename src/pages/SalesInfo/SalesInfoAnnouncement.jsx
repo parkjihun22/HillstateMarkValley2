@@ -87,7 +87,7 @@ const ComplexGuide1 = () => {
           name="keywords"
           content="힐스테이트용인마크밸리"
         />
-        <link rel="canonical" href="https://www.cialisknfrx.com/SalesInfo/announcement" />
+        <link rel="canonical" href="https://www.blog-gratuit.com/SalesInfo/announcement" />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
@@ -101,9 +101,9 @@ const ComplexGuide1 = () => {
         />
         <meta
           property="og:image"
-          content="https://www.cialisknfrx.com/Main1.png"
+          content="https://www.blog-gratuit.com/Main1.png"
         />
-        <meta property="og:url" content="https://www.cialisknfrx.com/SalesInfo/announcement" />
+        <meta property="og:url" content="https://www.blog-gratuit.com/SalesInfo/announcement" />
         <meta property="og:site_name" content="힐스테이트용인마크밸리" />
 
         {/* Twitter 카드 설정 */}
@@ -119,9 +119,9 @@ const ComplexGuide1 = () => {
         />
         <meta
           name="twitter:image"
-          content="https://www.cialisknfrx.com/Main1.png"
+          content="https://www.blog-gratuit.com/Main1.png"
         />
-        <meta name="twitter:url" content="https://www.cialisknfrx.com/SalesInfo/announcement" />
+        <meta name="twitter:url" content="https://www.blog-gratuit.com/SalesInfo/announcement" />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
         <script type="application/ld+json">
@@ -133,7 +133,7 @@ const ComplexGuide1 = () => {
                                     "description": "힐스테이트용인마크밸리의 모집 공고는 분양 전 단계에서 중요한 안내문입니다. 이 페이지에서는 모집 공고에 포함된 중요한 날짜, 자격 조건, 필요한 서류 등을 명확하게 안내하여 예비 청약자들이 혼동 없이 청약을 준비할 수 있도록 지원합니다. 모집 공고를 통해 필수 정보들을 빠짐없이 체크하세요.
                                             
                                     ",
-                                    "url": "https://www.cialisknfrx.com/SalesInfo/announcement"
+                                    "url": "https://www.blog-gratuit.com/SalesInfo/announcement"
                                 }
                                 `}
         </script>

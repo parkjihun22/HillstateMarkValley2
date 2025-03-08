@@ -401,7 +401,7 @@ const Main = () => {
                 <div className={styles.registrationDescription}>방문예약</div>
                 <form
                   className={styles.registrationForm}
-                  action="https://formspree.io/f/xnnjvebv"
+                  action="https://formspree.io/f/xvgzvlvr"
                   method="POST"
                 >
                   <label htmlFor="name">
@@ -640,7 +640,7 @@ const Main = () => {
             <div className={styles.registrationDescription}>방문예약</div>
             <form
               className={styles.registrationForm}
-              action="https://formspree.io/f/xnnjvebv"
+              action="https://formspree.io/f/xvgzvlvr"
               method="POST"
             >
               <label htmlFor="name">

@@ -68,7 +68,7 @@ const ComplexGuide1 = () => {
 		  name="keywords"
 		  content="힐스테이트용인마크밸리"
 		/>
-		<link rel="canonical" href="https://www.cialisknfrx.com/ComplexGuide/detailintro" />
+		<link rel="canonical" href="https://www.blog-gratuit.com/ComplexGuide/detailintro" />
 
 		{/* Open Graph - 소셜 미디어 공유 최적화 */}
 		<meta
@@ -82,9 +82,9 @@ const ComplexGuide1 = () => {
 		/>
 		<meta
 		  property="og:image"
-		  content="https://www.cialisknfrx.com/Main1.png"
+		  content="https://www.blog-gratuit.com/Main1.png"
 		/>
-		<meta property="og:url" content="https://www.cialisknfrx.com/ComplexGuide/detailintro" />
+		<meta property="og:url" content="https://www.blog-gratuit.com/ComplexGuide/detailintro" />
 		<meta property="og:site_name" content="힐스테이트용인마크밸리" />
 
 		{/* Twitter 카드 설정 */}
@@ -100,9 +100,9 @@ const ComplexGuide1 = () => {
 		/>
 		<meta
 		  name="twitter:image"
-		  content="https://www.cialisknfrx.com/Main1.png"
+		  content="https://www.blog-gratuit.com/Main1.png"
 		/>
-		<meta name="twitter:url" content="https://www.cialisknfrx.com/ComplexGuide/detailintro" />
+		<meta name="twitter:url" content="https://www.blog-gratuit.com/ComplexGuide/detailintro" />
 
 		{/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
 		<script type="application/ld+json">
@@ -114,7 +114,7 @@ const ComplexGuide1 = () => {
 									"description": "첨단 단지 현대건설의 설계와 다양한 입주 혜택이 돋보이는 현대건설의 계약에 필요한 여러가지 서류 등 상세 정보를 확인하고 최적의 주거와 투자 기회를 만나보세요.
 											
 									",
-									"url": "https://www.cialisknfrx.com/ComplexGuide/detailintro"
+									"url": "https://www.blog-gratuit.com/ComplexGuide/detailintro"
 								}
 								`}
 		</script>
